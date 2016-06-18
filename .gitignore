@@ -1,3 +1,8 @@
 build/
 *.o
 stem
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-porter2_stemmer
+bazel-testlogs
